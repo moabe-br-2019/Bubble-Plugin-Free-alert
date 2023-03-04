@@ -1,0 +1,20 @@
+{
+    "add_is_visible": true,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 10,
+        "width": 10
+    },
+    "display": "Confirm dialog",
+    "events": {
+        "AAI": {
+            "caption": "confirm",
+            "name": "confirm"
+        },
+        "AAL": {
+            "caption": "not confirmed",
+            "name": "not_confirmed"
+        }
+    },
+    "icon": "ion-chatbubble-working"
+}

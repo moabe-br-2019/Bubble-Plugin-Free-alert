@@ -1,0 +1,13 @@
+{
+    "caption": "Show alert",
+    "doc": "Show an alert to confirm ",
+    "fields": {
+        "AAK": {
+            "caption": "value",
+            "editor": "DynamicValue",
+            "name": "value",
+            "rank": 0,
+            "value": "text"
+        }
+    }
+}
